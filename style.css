@@ -1,0 +1,91 @@
+* {
+
+    margin: 0;
+    margin: 0;
+
+}
+
+.section {
+
+    position: relative; 
+    background-color: #1A82D6; 
+    min-height: 30vh;
+
+}
+
+.custom-shape-divider-bottom-1620241217 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1620241217 svg {
+    position: relative;
+    display: block;
+    width: calc(300% + 1.3px);
+    height: 244px;
+}
+
+.custom-shape-divider-bottom-1620241217 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.section h1 {
+
+    position: absolute;
+    font-size: 5rem;
+    margin-left: 70px;
+    top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    
+}
+
+.section svg {
+
+    margin-top: 30px;
+
+}
+
+.logo {
+    margin-left: 100px;
+
+
+}
+
+.buttonSignIn {
+    background-color: #1A82D6; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 50px;
+    text-align: start;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.buttonSignUp {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 50px;
+    text-align: start;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.botoes {
+    position: absolute;
+    top: 35px;
+    left: 1500px;
+   
+
+
+}
